@@ -10,5 +10,5 @@
     <string name="title_activity_db_helper">DbHelperActivity</string>
     <string name="title_activity_dbhelper">DBHelperActivity</string>
     <string name="title_activity_info">InfoActivity</string>
-	<string name="prodector">刘昭  黄华倩</string>
+    <string name="prodector">lz</string>
 </resources>
