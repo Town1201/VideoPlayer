@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Melda</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_watch_history">播放记录</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+    <string name="title_activity_db_helper">DbHelperActivity</string>
+    <string name="title_activity_dbhelper">DBHelperActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+	<string name="prodector">刘昭  黄华倩</string>
+</resources>

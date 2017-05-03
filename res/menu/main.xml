@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background"
+    tools:context="com.example.videoplayer.MainActivity" >
+
+    <item
+        android:id="@+id/menu_main_scan"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="扫描"
+        android:icon="@drawable/circle"
+      	/>
+    <item
+        android:id="@+id/menu_main_history"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="记录"
+        android:icon="@drawable/history"
+        />
+    
+    <item
+        android:id="@+id/menu_main_search"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="查找"
+        android:icon="@drawable/find"
+       />
+    <item 
+        android:id="@+id/menu_main_more"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="关于"
+        />
+   
+      
+
+</menu>
